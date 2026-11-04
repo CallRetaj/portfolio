@@ -1,0 +1,22 @@
+PROJECT IMAGE UPLOAD GUIDE
+
+Upload your own images into this folder using these exact names:
+
+HADEN
+  haden-1.jpg
+  haden-2.jpg
+  haden-3.jpg
+
+PNEUMONIA DETECTION
+  pneumonia-1.jpg
+  pneumonia-2.jpg
+  pneumonia-3.jpg
+
+NABATRON
+  nabatron-1.jpg
+  nabatron-2.jpg
+  nabatron-3.jpg
+
+You can use .png instead, but if you do, also change the matching file extension in index.html.
+Each project has its own arrows and dots. The arrows loop from the last image back to the first.
+Recommended: landscape screenshots, ideally 1200 x 800 pixels or similar.
